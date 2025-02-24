@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Script to install Ghidra on macOS (Intel and Apple Silicon) using Homebrew
-# Author: xAI
 # Date: February 23, 2025
 # Supports both Intel (x86_64) and Apple Silicon (aarch64) architectures
 
